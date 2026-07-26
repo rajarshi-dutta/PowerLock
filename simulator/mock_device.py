@@ -28,3 +28,4 @@ while True:
         print(f"Connection failed: {e}")
 
     time.sleep(5)
+    # testing terminal mearge
