@@ -1,0 +1,7 @@
+{
+    "tenant_id": 1,
+    "name": "Arijit Sen",
+    "room_number": "Room 101",
+    "current_balance": 500.00,
+    "relay_status": true
+}
