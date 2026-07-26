@@ -2,6 +2,9 @@
 -- PowerLock Database Schema
 -- ==========================================
 
+-- Select Database
+USE defaultdb;
+
 -- 1. Landlord Table (Identity Management)
 CREATE TABLE IF NOT EXISTS landlord (
     landlord_id INT AUTO_INCREMENT PRIMARY KEY,
